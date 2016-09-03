@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle ember-navigator",
+        "command": "ember-navigator:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ember-navigator",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "ember-navigator:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
