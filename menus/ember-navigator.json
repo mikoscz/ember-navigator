@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Toggle ember-navigator",
-        "command": "ember-navigator:toggle"
+        "command": "ember-navigator:toggleComponent"
       }
     ]
   },
@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "Toggle",
-              "command": "ember-navigator:toggle"
+              "command": "ember-navigator:toggleComponent"
             }
           ]
         }
