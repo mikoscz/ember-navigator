@@ -1,5 +1,11 @@
-# ember-navigator package
+# Ember Navigator
 
-A short description of your package.
+Package for Atom Editor which allow you to easy navigate through EmberJS files.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![Ember Navigator](https://cloud.githubusercontent.com/assets/12214867/18238425/2a326f82-733d-11e6-843e-58c220dc79bb.jpg)
+
+# How to use?
+
+1. Switching between component's template and logic (component.js <=> template.hbs)
+
+> ctrl + /
