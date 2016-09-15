@@ -1,10 +1,9 @@
 {
   "name": "ember-navigator",
   "main": "./lib/ember-navigator",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Simplify work with ember components",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "ember-navigator:toggleComponent"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
