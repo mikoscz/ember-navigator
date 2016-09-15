@@ -8,4 +8,4 @@ Package for Atom Editor which allow you to easy navigate through EmberJS files.
 
 1. Switching between component's template and logic (component.js <=> template.hbs)
 
-> ctrl + /
+> ctrl + alt + , 
