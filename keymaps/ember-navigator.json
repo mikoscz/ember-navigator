@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-,": "ember-navigator:toggleComponent"
+    "cmd-ctrl-,": "ember-navigator:toggleComponent"
   }
 }
