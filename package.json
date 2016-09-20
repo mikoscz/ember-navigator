@@ -5,7 +5,10 @@
   "description": "Simplify work with ember components",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "ember-navigator:toggleComponent"
+    "atom-workspace": [
+      "ember-navigator:toggleComponent",
+      "ember-navigator:toggleInspector"
+    ]
   },
   "repository": "https://github.com/mikoscz/ember-navigator",
   "license": "MIT",
