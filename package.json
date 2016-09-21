@@ -1,7 +1,7 @@
 {
   "name": "ember-navigator",
   "main": "./lib/ember-navigator",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "Simplify work with ember components",
   "keywords": [],
   "activationCommands": {
